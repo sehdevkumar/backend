@@ -48,8 +48,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'smartstream',
-    'bloglink',
-    'whitenoise'
+    'bloglink'
 ]
 
 MIDDLEWARE = [
